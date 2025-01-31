@@ -1,0 +1,2 @@
+git fetch
+add command 
